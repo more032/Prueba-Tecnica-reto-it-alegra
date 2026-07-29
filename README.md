@@ -82,6 +82,14 @@ Alegra: quiénes somos, las reglas de arriba, la estructura del repo,
 el formato de reportes y evidencia, y al menos **un procedimiento repetible**
 que definas tú (por ejemplo: "cómo responder un ticket paso a paso").
 
+**Este archivo (y cualquier otra configuración del agente) debe venir en el
+repo que nos compartas**: evaluamos directamente cómo configuraste tu agente,
+no solo los resultados.
+
+**Plus:** si usas funcionalidades avanzadas de tu herramienta —subagentes,
+comandos o skills personalizados, herramientas conectadas (MCP)— y se nota
+que aportan al flujo (no de adorno), suma puntos extra.
+
 *Qué evaluamos:* que entiendas que un agente rinde según cómo se configura.
 
 ### Tarea 2 — Auditoría de accesos y tickets (40%)
@@ -116,7 +124,9 @@ va a servir como caso de prueba.
 Devuélvenos tu copia del reto (link a un **repo privado** compartido con quien
 te contactó, o un **zip** respondiendo al mismo correo) con:
 
-- [ ] Tu archivo de contexto (`GEMINI.md` / `AGENTS.md`)
+- [ ] Tu archivo de contexto (`GEMINI.md` / `AGENTS.md`) **y toda la
+      configuración de tu agente** (comandos, subagentes, settings…) — la
+      configuración es parte de lo que se evalúa
 - [ ] `evidencia/auditoria-accesos.md` — reporte de auditoría
 - [ ] Los 5 tickets respondidos (sección `## Respuesta de IT` en cada uno)
 - [ ] `playbooks/offboarding.md` completo
