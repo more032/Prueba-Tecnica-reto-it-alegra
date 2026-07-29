@@ -1,0 +1,21 @@
+email,nombre,area,cargo,estado,fecha_ingreso,fecha_retiro
+ana.rojas@nimbusandina.co,Ana Rojas,IT,Líder de IT,activo,2022-03-01,
+diana.torres@nimbusandina.co,Diana Torres,IT,Analista de soporte,activo,2024-05-02,
+santiago.vargas@nimbusandina.co,Santiago Vargas,IT,Practicante,activo,2026-06-01,
+laura.gomez@nimbusandina.co,Laura Gómez,People Ops,Coordinadora de People,activo,2023-02-01,
+lucia.herrera@nimbusandina.co,Lucía Herrera,People Ops,Practicante,retirado,2026-01-20,2026-07-10
+ricardo.molina@nimbusandina.co,Ricardo Molina,Ventas,Líder comercial,activo,2021-05-24,
+carlos.mendez@nimbusandina.co,Carlos Méndez,Ventas,Ejecutivo comercial,activo,2023-06-12,
+pedro.salazar@nimbusandina.co,Pedro Salazar,Ventas,SDR,retirado,2025-08-01,2025-03-15
+sandra.nino@nimbusandina.co,Sandra Niño,Finanzas,Contadora,activo,2021-07-19,
+jorge.ramirez@nimbusandina.co,Jorge Ramírez,Finanzas,Analista financiero,retirado,2022-09-05,2026-05-30
+felipe.castro@nimbusandina.co,Felipe Castro,Producto,Product Manager,activo,2022-11-10,
+natalia.quintero@nimbusandina.co,Natalia Quintero,Producto,Product Designer,activo,2024-03-11,
+juan.perez@nimbusandina.co,Juan Pérez,Diseño,Diseñador de producto,activo,2024-01-15,
+valentina.ruiz@nimbusandina.co,Valentina Ruiz,Diseño,UX Researcher,activo,2025-02-17,
+maria.lopez@nimbusandina.co,María Fernanda López,Marketing,Especialista de contenido,activo,2023-11-20,
+paula.cardenas@nimbusandina.co,Paula Cárdenas,Marketing,Practicante,activo,2026-06-01,
+andres.velez@nimbusandina.co,Andrés Vélez,Ingeniería,Backend developer,activo,2023-04-03,
+camila.duarte@nimbusandina.co,Camila Duarte,Ingeniería,Frontend developer,activo,2024-08-26,
+oscar.pinto@nimbusandina.co,Óscar Pinto,Ingeniería,DevOps engineer,activo,2023-01-09,
+soporte.general@nimbusandina.co,Soporte General,IT,Cuenta compartida,activo,2020-01-01,
