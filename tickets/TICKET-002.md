@@ -1,6 +1,6 @@
 # TICKET-002 — Rol de superadmin en Google Workspace
 
-- **Solicitante:** Santiago Vargas (santiago.vargas@nimbusandina.co) — Practicante de IT
+- **Solicitante:** Santiago Vargas (santiago.vargas@alegra.com) — Practicante de IT
 - **Fecha:** 2026-07-14
 - **Prioridad:** alta
 

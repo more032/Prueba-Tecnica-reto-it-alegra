@@ -1,6 +1,6 @@
 # TICKET-001 — Accesos para nuevo ingreso en Ventas
 
-- **Solicitante:** Ricardo Molina (ricardo.molina@nimbusandina.co) — Líder comercial
+- **Solicitante:** Ricardo Molina (ricardo.molina@alegra.com) — Líder comercial
 - **Fecha:** 2026-07-14
 - **Prioridad:** media
 

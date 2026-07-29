@@ -1,6 +1,6 @@
 # TICKET-004 — Licencia de Figma para Diseño
 
-- **Solicitante:** Juan Pérez (juan.perez@nimbusandina.co) — Diseñador de producto
+- **Solicitante:** Juan Pérez (juan.perez@alegra.com) — Diseñador de producto
 - **Fecha:** 2026-07-15
 - **Prioridad:** baja
 
